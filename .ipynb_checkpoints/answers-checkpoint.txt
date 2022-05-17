@@ -3,3 +3,4 @@ https://quizlet.com/explanations/textbook-solutions/stewart-calculus-early-trans
 
 Latex
 https://www.math-linux.com/latex-26/faq/latex-faq/article/latex-derivatives-limits-sums-products-and-integrals
+https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols

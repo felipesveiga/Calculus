@@ -1,5 +1,6 @@
 Correções dos exercícios do livro.
 https://quizlet.com/explanations/textbook-solutions/stewart-calculus-early-transcendentals-8th-edition-9781285741550
 
-Equações em Markdown
-https://personal.math.ubc.ca/~pwalls/math-python/jupyter/latex/
+Latex
+https://www.math-linux.com/latex-26/faq/latex-faq/article/latex-derivatives-limits-sums-products-and-integrals
+https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
